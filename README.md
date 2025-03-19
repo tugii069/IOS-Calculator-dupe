@@ -1,6 +1,8 @@
 # Calculator App
 
-A simple and elegant calculator app built with **SwiftUI** for iOS. This project demonstrates the use of SwiftUI's declarative syntax to create a fully functional calculator with basic arithmetic operations.
+A simple and elegant calculator app built with **SwiftUI** for iOS. This project demonstrates the use of SwiftUI's declarative syntax to create a fully functional calculator with basic arithmetic operations. 
+
+Perfect for those moments when you're at a party with a friend, don’t know anyone, and your friend starts greeting people they know and chatting with them – this app can discreetly keep you entertained while you blend into the background. 😭 
 
 
 ![Calculator Screenshot](images/calculator.png) 
